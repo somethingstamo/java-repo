@@ -1,7 +1,7 @@
 public class NumberCounter {
     public static void main(String args[]) {
-        int[] testNumbers = {3, 3, 4, 5, 3, 3};
-        int testNumber = 5;
+        int[] testNumbers = {3, 4, 5, 3, 3};
+        int testNumber = 7;
 
         System.out.printf("The number 3 appears %d times in testNumbers\n", count(3, testNumbers, 0));
 
